@@ -1,3 +1,6 @@
 tmp.ipynb
 *.sh
 *.log
+output/
+outputs/
+.ipynb_checkpoints/
