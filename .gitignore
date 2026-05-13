@@ -4,3 +4,4 @@ tmp.ipynb
 output/
 outputs/
 .ipynb_checkpoints/
+*.nbconvert.*

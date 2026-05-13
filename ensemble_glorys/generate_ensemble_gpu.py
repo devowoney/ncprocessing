@@ -23,7 +23,7 @@ import dask.array as da
 warnings.filterwarnings('ignore')
 
 
-class GPUInitialConditionDataLoader :
+class GPUEnsembleDataLoader :
     """
     GPU-accelerated data loader using Dask for lazy loading and PyTorch for computation.
     """
