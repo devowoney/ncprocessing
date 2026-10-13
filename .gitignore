@@ -5,3 +5,4 @@ output/
 outputs/
 .ipynb_checkpoints/
 *.nbconvert.*
+.vscode
